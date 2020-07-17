@@ -40,10 +40,10 @@
 |   |   └── index.scss              # Arquivo de entry para os estilos.
 |   └── config.js                   # Arquivo contendo as URL's da API.
 ├── public                          # Arquivos estáticos
-|   ├── assets/
-|   |   ├── css
-|   |   ├── img
-|   |   ├── fonts                
+|   ├── css
+|   ├── img
+|   ├── fonts 
+|   └── ... 
 ├── controllers
 |   ├── posts/
 |   |   └── index.js  
