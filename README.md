@@ -44,7 +44,7 @@
 |   |   └── index.js  
 |   ├── comments/
 |   |   └── index.js  
-|   └── etc.
+|   └── index.js                    # Exportação de todos os controllers para utilização nas páginas.
 ├── routes.js
 ├── server.js
 ├── README.md
