@@ -21,12 +21,12 @@
 |   |   └── ...                     # Alguns outros helpers (ex: media, transform...).
 |   ├── lib/                        # High-order components.
 |   |   ├── ...
-|   ├── pages/                      # As paginas que compoem o projeto.
-|   |   ├── article/
-|   |   |   ├── index.js
-|   |   |   └── article.scss        # Estilo para a diagramação da página.
-|   |   ├── ...
-|   |   └── index.js                # Página inicial.
+├── pages/                          # As paginas que compoem o projeto.
+|   ├── article/
+|   |   ├── index.js
+|   |   └── article.scss            # Estilo para a diagramação da página.
+|   ├── ...
+|   └── index.js                    # Página inicial.
 |   ├── redux-flow/
 |   |   ├── reducers/               # Todos os reducers vem nesta pasta.
 |   |   |   ├── example/
@@ -39,6 +39,11 @@
 |   |   ├── ...
 |   |   └── index.scss              # Arquivo de entry para os estilos.
 |   └── config.js                   # Arquivo contendo as URL's da API.
+├── public                          # Arquivos estáticos
+|   ├── assets/
+|   |   ├── css
+|   |   ├── img
+|   |   ├── fonts                
 ├── controllers
 |   ├── posts/
 |   |   └── index.js  
