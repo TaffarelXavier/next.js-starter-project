@@ -39,6 +39,12 @@
 |   |   ├── ...
 |   |   └── index.scss              # Arquivo de entry para os estilos.
 |   └── config.js                   # Arquivo contendo as URL's da API.
+├── controllers
+|   ├── posts/
+|   |   └── index.js  
+|   ├── comments/
+|   |   └── index.js  
+|   └── etc.
 ├── routes.js
 ├── server.js
 ├── README.md
